@@ -1,4 +1,2 @@
-<video width="630" height="300" controls>
-  <source src="https://youtu.be/Nb_6BuZ3Brc" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="630" height="300" src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/Nb_6BuZ3Brc)" frameborder="0" allowfullscreen></iframe>
+
