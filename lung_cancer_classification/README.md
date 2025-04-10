@@ -94,7 +94,8 @@ We tested several architectures (from basic CNNs to pre-trained transfer learnin
 
 - **Top model:** VGG19 with class weights and full dataset augmentation (Accuracy: 0.64, Precision:0.66, Recall: 0.64, F1: 0.64)
 
-**NB: The results were obtained on a dataset provided by our teacher, the content of which was unknown to us at the outset.**
+NB: Those results were obtained on the test dataset provided by our teacher, which was unknown to us
+
 ---
 
 ## 🤔 Discussion
